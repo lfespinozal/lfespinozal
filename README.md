@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/78887605?v=4"  />
+<img align="right" height="200" src="https://octodex.github.com/images/total-eclipse-of-the-octocat.jpg"  />
 
 ###
 
