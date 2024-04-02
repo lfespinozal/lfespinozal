@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">{<br>    👂 My name is: Luis,<br>    👩 Pronouns: He/Him,<br>    ⚡ I'm: 25 years old,<br>    🌱 I’m currently mastering: Java & Spring,<br>    ❤️ I love: Burgers ,<br>    💻 Favorite lang: Java<br>}</p>
+<p align="left">{<br>    👂 My name is: Luis,<br>    👩 Pronouns: He/Him,<br>    ⚡ I'm: 25 years old,<br>    🌱 I’m currently mastering: Java & Spring,<br>    ❤️ I love: Burgers ,<br>    💻 Favorite lang: Java<br>}</p>
 
 ###
 
